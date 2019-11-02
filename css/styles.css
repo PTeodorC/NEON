@@ -1,0 +1,82 @@
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: #000;
+  font-family: "Staatliches";
+}
+
+h1{
+  text-align: center;
+}
+
+.navbar{
+  background-color: #000;
+}
+.navbar-brand {
+  font-family: "Monoton";
+  font-size: 2.5rem;
+}
+
+.n:hover{
+  color: #000;
+}
+.gif{
+  width: 100%;
+  height: 23rem;
+}
+
+.media{
+  padding: 5rem;
+}
+
+.about{
+  background-color: #F5D300;
+  padding: 5rem;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #000;
+}
+
+.card{
+  background-color: #000;
+}
+.about2{
+  background-color: pink;
+  font-size: 1.5rem;
+  text-align: center;
+  color: #000;
+}
+
+.card-img-top{
+  height: 17rem;
+}
+
+.zoom {
+  -webkit-transition: all .2s ease-in-out;
+          transition: all .2s ease-in-out;
+}
+.zoom:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+.carousel{
+  width: 100%;
+}
+
+#song{
+  border-radius: 20%;
+}
+
+#music{
+  padding: 2.5rem;
+}
+
+#meet{
+  padding: 5rem;
+}
+
+.ye{
+  font-size: 1rem;
+}
